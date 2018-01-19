@@ -1,0 +1,2 @@
+#define  BDADDR  141
+#define  DEVICE_UUID  "0651749ee2e2442894fb7e9e4c6e8736"
